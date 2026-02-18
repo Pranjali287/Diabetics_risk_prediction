@@ -1,0 +1,14 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "A project for deployment with core logic and utility functions.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "deploy": "bash scripts/deploy.sh"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "",
+  "license": "MIT"
+}
